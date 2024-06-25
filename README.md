@@ -1,6 +1,6 @@
 # Wizualizator Problemu Plecakowego
 
-Aplikacja, która umożliwia wizualizację i rozwiązywanie problemu plecakowego. Program używa bibliotek `matplotlib`, `numpy`, oraz `pandas` do graficznego przedstawienia danych, efektywnego zarządzania operacjami na macierzach oraz prezentacji danych w formie tabel.
+Skrypt, który umożliwia wizualizację i rozwiązywanie problemu plecakowego. Program używa bibliotek `matplotlib`, `numpy`, oraz `pandas` do graficznego przedstawienia danych, efektywnego zarządzania operacjami na macierzach oraz prezentacji danych w formie tabel.
 
 ## Funkcje
 
@@ -16,11 +16,11 @@ Aplikacja, która umożliwia wizualizację i rozwiązywanie problemu plecakowego
 
 ## Sposób Użycia
 
-Użytkownik inicjalizuje dane wejściowe przez wprowadzenie liczby przedmiotów i maksymalnej wagi plecaka, a następnie informacji o każdym przedmiocie. Po wprowadzeniu danych, aplikacja wizualizuje tabele wartości i wybrane przedmioty, a także zapisuje wyniki do pliku PNG.
+Użytkownik inicjalizuje dane wejściowe przez wprowadzenie liczby przedmiotów i maksymalnej wagi plecaka, a następnie informacji o każdym przedmiocie. Po wprowadzeniu danych, Skrypt wizualizuje tabele wartości i wybrane przedmioty, a także zapisuje wyniki do pliku PNG.
 
 ## Przykład
 
-Przykładowa demonstracja użycia aplikacji:
+Przykładowa demonstracja użycia skryptu:
 
 ![wyniki](https://github.com/TheNazgul42/VisualTreeTraversal/assets/132154842/719b7eb9-a205-46d7-b924-f6480fbd8d0e)
 
